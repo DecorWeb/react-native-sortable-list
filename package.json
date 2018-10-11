@@ -1,6 +1,6 @@
 {
-  "name": "react-native-sortable-list",
-  "version": "0.0.22",
+  "name": "@decor/react-native-sortable-list",
+  "version": "0.0.23",
   "description": "React Native Sortable List component",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,9 @@
     "ios",
     "react-component"
   ],
+  "publishConfig": {
+    "registry": "http://18.196.24.199:4873"
+  },
   "author": "Tim Gibadullin <tim.gibadullin@gmail.com> (https://github.com/gitim)",
   "license": "MIT",
   "bugs": {
